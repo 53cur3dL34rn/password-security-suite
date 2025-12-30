@@ -113,9 +113,10 @@ Optional hashing demos:
 ## Screenshots
 
 ### Interface (Options)
-![Interface](screenshots/interface.png)
+![Interface](screenshots/audit_interface.png)
+
 ### Audit output (score breakdown + findings)
-![Audit output](screenshots/audit_result.png)
+![Audit output](screenshots/audit_interface.png)
 
 ## Quick start (Interactive menu)
 
