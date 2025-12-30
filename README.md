@@ -110,10 +110,19 @@ Optional hashing demos:
 - bcrypt: `pip install bcrypt`
 
 ---
+## Screenshots
+
+### Interface (Options)
+![Interface](screenshots/interface.png)
+### Audit output (score breakdown + findings)
+![Audit output](screenshots/audit_result.png)
 
 ## Quick start (Interactive menu)
 
 ```bash
 python3 run_suite.py
+
+
+
 
 
