@@ -1,0 +1,4 @@
+# Core: no extra dependencies required.
+# Optional (for hashing demos):
+# argon2-cffi
+# bcrypt
