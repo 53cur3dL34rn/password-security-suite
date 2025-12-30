@@ -114,7 +114,7 @@ Optional hashing demos:
 
 ### Interface (Options)
 ![Interface options menu showing password audit, secure generation, batch auditing, hashing demos, and export functions with clear navigation prompts]
-![Audit Interface](screenshots/interface.png)
+![Audit Interface](screenshots/audit_interface.png)
 
 ### Audit output (score breakdown + findings)
 ![Audit output](screenshots/audit_result.png)
